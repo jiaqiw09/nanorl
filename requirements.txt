@@ -1,0 +1,11 @@
+# Inventory only, NOT a validated lockfile. Use the digest-pinned container in
+# docs/environment.md; do not pip-upgrade an existing Megatron CUDA stack.
+torch
+numpy
+transformers
+requests
+sglang
+megatron-bridge
+megatron-core
+transformer-engine
+safetensors

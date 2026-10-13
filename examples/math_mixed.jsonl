@@ -1,0 +1,12 @@
+{"prompt":"Compute 12 + 7. Reply with the integer only.","answer":19}
+{"prompt":"Compute 37 * 24. Reply with the integer only.","answer":888}
+{"prompt":"Compute 145 - 3 * 28. Reply with the integer only.","answer":61}
+{"prompt":"Compute 8 * 9. Reply with the integer only.","answer":72}
+{"prompt":"Compute (137 + 89) * 6 - 415. Reply with the integer only.","answer":941}
+{"prompt":"A box contains 24 packs of 18 pencils. After selling 157 pencils, how many remain? Reply with the integer only.","answer":275}
+{"prompt":"Compute 6 * 4. Reply with the integer only.","answer":24}
+{"prompt":"Compute 10000 - 73 * 86. Reply with the integer only.","answer":3722}
+{"prompt":"Compute (84 / 7 + 19) * 13. Reply with the integer only.","answer":403}
+{"prompt":"Compute 21 - 13. Reply with the integer only.","answer":8}
+{"prompt":"A shop sells 17 items at 29 dollars each and 23 items at 14 dollars each. What is the total revenue in dollars? Reply with the integer only.","answer":815}
+{"prompt":"Compute 47 * 63 - 28 * 39. Reply with the integer only.","answer":1869}
